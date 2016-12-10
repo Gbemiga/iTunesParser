@@ -1,0 +1,46 @@
+<!--{{mainUser}}-->
+<navbar logged-in="true"
+        library-mode="true"
+        libraries="userLibraries">
+
+</navbar>
+<div class="container library-container">
+    <div class="row">
+        <table ng-show="currentView" class="table table-hover track-table">
+            <thead>
+            <tr>
+                <th>Name</th>
+                <th>Artist</th>
+                <th>Album</th>
+                <th>Genre</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr class="active" ng-repeat="track in userTracks | filter: global.search">
+                <td>{{track.track.name}}</td>
+                <td>{{track.track.artist}}</td>
+                <td>{{track.track.album}}</td>
+                <td>{{track.track.genre}}</td>
+                <td>
+                    <a ng-click="removeTrack(track)">
+                        <span class="table-remove glyphicon glyphicon-remove"></span>
+                    </a>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+        <div ng-show="!currentView" class="col-xs-12">
+            <div class="row">
+                <div class="col-xs-3" ng-repeat="playlist in playlists">
+                    <div class="thumbnail">
+                        <a href="detail.html"><img class="default-album" src="../../resources/img/playlist.png" alt="thumbnail"></a>
+                        <hr></hr>
+                        <div class="track-info">
+                            <p class="track-info">{{playlist.playlist.name}}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

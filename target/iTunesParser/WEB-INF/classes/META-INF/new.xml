@@ -1,0 +1,1405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>10.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/</string>
+	<key>Library Persistent ID</key><string>29E12A03204E0721</string>
+	<key>Tracks</key>
+	<dict>
+		<key>324</key>
+		<dict>
+			<key>Track ID</key><integer>324</integer>
+			<key>Name</key><string>Talk Dirty To Me</string>
+			<key>Artist</key><string>Poison</string>
+			<key>Composer</key><string>Poison</string>
+			<key>Album</key><string>The Best Of Poison: 20 Years Of Rock</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3698203</integer>
+			<key>Total Time</key><integer>224866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2008-08-07T15:16:57Z</date>
+			<key>Date Added</key><date>2008-08-07T15:17:17Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3378486192</integer>
+			<key>Play Date UTC</key><date>2011-01-22T03:23:12Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Best Of Poison: 20 Years Of Rock</string>
+			<key>Persistent ID</key><string>29E12A03204E0873</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Best%20Of%20Poison_%2020%20Years%20Of%20Rock/01%20Talk%20Dirty%20To%20Me.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>326</key>
+		<dict>
+			<key>Track ID</key><integer>326</integer>
+			<key>Name</key><string>I Want Action [Single Version]</string>
+			<key>Artist</key><string>Poison</string>
+			<key>Composer</key><string>Poison</string>
+			<key>Album</key><string>The Best Of Poison: 20 Years Of Rock</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3070259</integer>
+			<key>Total Time</key><integer>185893</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2008-08-07T15:17:12Z</date>
+			<key>Date Added</key><date>2008-08-07T15:17:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3367665479</integer>
+			<key>Play Date UTC</key><date>2010-09-18T21:37:59Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Best Of Poison: 20 Years Of Rock</string>
+			<key>Persistent ID</key><string>29E12A03204E087A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Best%20Of%20Poison_%2020%20Years%20Of%20Rock/02%20I%20Want%20Action%20%5BSingle%20Version%5D.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>328</key>
+		<dict>
+			<key>Track ID</key><integer>328</integer>
+			<key>Name</key><string>I Won't Forget You [Single Version]</string>
+			<key>Artist</key><string>Poison</string>
+			<key>Composer</key><string>Poison</string>
+			<key>Album</key><string>The Best Of Poison: 20 Years Of Rock</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3554327</integer>
+			<key>Total Time</key><integer>214733</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2008-08-07T15:17:31Z</date>
+			<key>Date Added</key><date>2008-08-07T15:17:51Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3367665694</integer>
+			<key>Play Date UTC</key><date>2010-09-18T21:41:34Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Best Of Poison: 20 Years Of Rock</string>
+			<key>Persistent ID</key><string>29E12A03204E087E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Best%20Of%20Poison_%2020%20Years%20Of%20Rock/03%20I%20Won't%20Forget%20You%20%5BSingle%20Versio.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>330</key>
+		<dict>
+			<key>Track ID</key><integer>330</integer>
+			<key>Name</key><string>Cry Tough</string>
+			<key>Artist</key><string>Poison</string>
+			<key>Composer</key><string>Poison</string>
+			<key>Album</key><string>The Best Of Poison: 20 Years Of Rock</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3532120</integer>
+			<key>Total Time</key><integer>218066</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2008-08-07T15:17:58Z</date>
+			<key>Date Added</key><date>2008-08-07T15:18:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3367665912</integer>
+			<key>Play Date UTC</key><date>2010-09-18T21:45:12Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Best Of Poison: 20 Years Of Rock</string>
+			<key>Persistent ID</key><string>29E12A03204E0882</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Best%20Of%20Poison_%2020%20Years%20Of%20Rock/04%20Cry%20Tough.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>332</key>
+		<dict>
+			<key>Track ID</key><integer>332</integer>
+			<key>Name</key><string>Look What The Cat Dragged In</string>
+			<key>Artist</key><string>Poison</string>
+			<key>Composer</key><string>Poison</string>
+			<key>Album</key><string>The Best Of Poison: 20 Years Of Rock</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3123047</integer>
+			<key>Total Time</key><integer>190800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2008-08-07T15:18:19Z</date>
+			<key>Date Added</key><date>2008-08-07T15:18:21Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3375522761</integer>
+			<key>Play Date UTC</key><date>2010-12-18T20:12:41Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2010-02-05T05:03:05Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Best Of Poison: 20 Years Of Rock</string>
+			<key>Persistent ID</key><string>29E12A03204E0887</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Best%20Of%20Poison_%2020%20Years%20Of%20Rock/05%20Look%20What%20The%20Cat%20Dragged%20In.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>334</key>
+		<dict>
+			<key>Track ID</key><integer>334</integer>
+			<key>Name</key><string>Nothin' But A Good Time</string>
+			<key>Artist</key><string>Poison</string>
+			<key>Composer</key><string>Poison</string>
+			<key>Album</key><string>The Best Of Poison: 20 Years Of Rock</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3637850</integer>
+			<key>Total Time</key><integer>223666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2008-08-07T15:18:40Z</date>
+			<key>Date Added</key><date>2008-08-07T15:18:40Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3367666215</integer>
+			<key>Play Date UTC</key><date>2010-09-18T21:50:15Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Best Of Poison: 20 Years Of Rock</string>
+			<key>Persistent ID</key><string>29E12A03204E088C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Best%20Of%20Poison_%2020%20Years%20Of%20Rock/06%20Nothin'%20But%20A%20Good%20Time.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>336</key>
+		<dict>
+			<key>Track ID</key><integer>336</integer>
+			<key>Name</key><string>Fallen Angel</string>
+			<key>Artist</key><string>Poison</string>
+			<key>Composer</key><string>Poison</string>
+			<key>Album</key><string>The Best Of Poison: 20 Years Of Rock</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3932499</integer>
+			<key>Total Time</key><integer>236840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2008-08-07T15:19:02Z</date>
+			<key>Date Added</key><date>2008-08-07T15:19:02Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3367666452</integer>
+			<key>Play Date UTC</key><date>2010-09-18T21:54:12Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Best Of Poison: 20 Years Of Rock</string>
+			<key>Persistent ID</key><string>29E12A03204E0891</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Best%20Of%20Poison_%2020%20Years%20Of%20Rock/07%20Fallen%20Angel.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>338</key>
+		<dict>
+			<key>Track ID</key><integer>338</integer>
+			<key>Name</key><string>Every Rose Has Its Thorn</string>
+			<key>Artist</key><string>Poison</string>
+			<key>Composer</key><string>Poison</string>
+			<key>Album</key><string>The Best Of Poison: 20 Years Of Rock</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4145638</integer>
+			<key>Total Time</key><integer>260160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2008-08-07T15:19:25Z</date>
+			<key>Date Added</key><date>2008-08-07T15:19:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3376135409</integer>
+			<key>Play Date UTC</key><date>2010-12-25T22:23:29Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Best Of Poison: 20 Years Of Rock</string>
+			<key>Persistent ID</key><string>29E12A03204E0896</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Best%20Of%20Poison_%2020%20Years%20Of%20Rock/08%20Every%20Rose%20Has%20Its%20Thorn.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>340</key>
+		<dict>
+			<key>Track ID</key><integer>340</integer>
+			<key>Name</key><string>Your Mama Don't Dance</string>
+			<key>Artist</key><string>Poison</string>
+			<key>Composer</key><string>Poison</string>
+			<key>Album</key><string>The Best Of Poison: 20 Years Of Rock</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2949730</integer>
+			<key>Total Time</key><integer>180240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2008-08-07T15:19:41Z</date>
+			<key>Date Added</key><date>2008-08-07T15:19:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3367666892</integer>
+			<key>Play Date UTC</key><date>2010-09-18T22:01:32Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Best Of Poison: 20 Years Of Rock</string>
+			<key>Persistent ID</key><string>29E12A03204E089B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Best%20Of%20Poison_%2020%20Years%20Of%20Rock/09%20Your%20Mama%20Don't%20Dance.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>342</key>
+		<dict>
+			<key>Track ID</key><integer>342</integer>
+			<key>Name</key><string>Unskinny Bop</string>
+			<key>Artist</key><string>Poison</string>
+			<key>Composer</key><string>Poison</string>
+			<key>Album</key><string>The Best Of Poison: 20 Years Of Rock</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3778638</integer>
+			<key>Total Time</key><integer>229160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2008-08-07T15:20:00Z</date>
+			<key>Date Added</key><date>2008-08-07T15:20:02Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3349421166</integer>
+			<key>Play Date UTC</key><date>2010-02-19T17:46:06Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Best Of Poison: 20 Years Of Rock</string>
+			<key>Persistent ID</key><string>29E12A03204E08A0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Best%20Of%20Poison_%2020%20Years%20Of%20Rock/10%20Unskinny%20Bop.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>344</key>
+		<dict>
+			<key>Track ID</key><integer>344</integer>
+			<key>Name</key><string>Rock &#38; Roll All Nite</string>
+			<key>Artist</key><string>Poison</string>
+			<key>Composer</key><string>Poison</string>
+			<key>Album</key><string>The Best Of Poison: 20 Years Of Rock</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3546676</integer>
+			<key>Total Time</key><integer>215600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2008-08-07T15:20:17Z</date>
+			<key>Date Added</key><date>2008-08-07T15:20:21Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3375522976</integer>
+			<key>Play Date UTC</key><date>2010-12-18T20:16:16Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2010-01-07T14:47:15Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Best Of Poison: 20 Years Of Rock</string>
+			<key>Persistent ID</key><string>29E12A03204E08A5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Best%20Of%20Poison_%2020%20Years%20Of%20Rock/11%20Rock%20&#38;%20Roll%20All%20Nite.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>346</key>
+		<dict>
+			<key>Track ID</key><integer>346</integer>
+			<key>Name</key><string>Ride The Wind</string>
+			<key>Artist</key><string>Poison</string>
+			<key>Composer</key><string>Poison</string>
+			<key>Album</key><string>The Best Of Poison: 20 Years Of Rock</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3816414</integer>
+			<key>Total Time</key><integer>233400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2008-08-07T15:20:35Z</date>
+			<key>Date Added</key><date>2008-08-07T15:20:38Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3375523210</integer>
+			<key>Play Date UTC</key><date>2010-12-18T20:20:10Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Best Of Poison: 20 Years Of Rock</string>
+			<key>Persistent ID</key><string>29E12A03204E08AA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Best%20Of%20Poison_%2020%20Years%20Of%20Rock/12%20Ride%20The%20Wind.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>348</key>
+		<dict>
+			<key>Track ID</key><integer>348</integer>
+			<key>Name</key><string>Something To Believe In</string>
+			<key>Artist</key><string>Poison</string>
+			<key>Composer</key><string>Poison</string>
+			<key>Album</key><string>The Best Of Poison: 20 Years Of Rock</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5432919</integer>
+			<key>Total Time</key><integer>330266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2008-08-07T15:21:00Z</date>
+			<key>Date Added</key><date>2008-08-07T15:20:57Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3375522570</integer>
+			<key>Play Date UTC</key><date>2010-12-18T20:09:30Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Best Of Poison: 20 Years Of Rock</string>
+			<key>Persistent ID</key><string>29E12A03204E08AF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Best%20Of%20Poison_%2020%20Years%20Of%20Rock/13%20Something%20To%20Believe%20In.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>350</key>
+		<dict>
+			<key>Track ID</key><integer>350</integer>
+			<key>Name</key><string>Life Goes On</string>
+			<key>Artist</key><string>Poison</string>
+			<key>Composer</key><string>Poison</string>
+			<key>Album</key><string>The Best Of Poison: 20 Years Of Rock</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4767994</integer>
+			<key>Total Time</key><integer>289306</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2008-08-07T15:21:22Z</date>
+			<key>Date Added</key><date>2008-08-07T15:21:23Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3375521977</integer>
+			<key>Play Date UTC</key><date>2010-12-18T19:59:37Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Best Of Poison: 20 Years Of Rock</string>
+			<key>Persistent ID</key><string>29E12A03204E08B4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Best%20Of%20Poison_%2020%20Years%20Of%20Rock/14%20Life%20Goes%20On.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>352</key>
+		<dict>
+			<key>Track ID</key><integer>352</integer>
+			<key>Name</key><string>Stand</string>
+			<key>Artist</key><string>Poison</string>
+			<key>Composer</key><string>Poison</string>
+			<key>Album</key><string>The Best Of Poison: 20 Years Of Rock</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5180631</integer>
+			<key>Total Time</key><integer>314933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2008-08-07T15:21:44Z</date>
+			<key>Date Added</key><date>2008-08-07T15:21:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3357383790</integer>
+			<key>Play Date UTC</key><date>2010-05-22T21:36:30Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Best Of Poison: 20 Years Of Rock</string>
+			<key>Persistent ID</key><string>29E12A03204E08B9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Best%20Of%20Poison_%2020%20Years%20Of%20Rock/15%20Stand.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>354</key>
+		<dict>
+			<key>Track ID</key><integer>354</integer>
+			<key>Name</key><string>The Last Song</string>
+			<key>Artist</key><string>Poison</string>
+			<key>Composer</key><string>Poison</string>
+			<key>Album</key><string>The Best Of Poison: 20 Years Of Rock</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4205907</integer>
+			<key>Total Time</key><integer>262626</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2008-08-07T15:22:01Z</date>
+			<key>Date Added</key><date>2008-08-07T15:22:06Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3375522240</integer>
+			<key>Play Date UTC</key><date>2010-12-18T20:04:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Best Of Poison: 20 Years Of Rock</string>
+			<key>Sort Name</key><string>Last Song</string>
+			<key>Persistent ID</key><string>29E12A03204E08BE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Best%20Of%20Poison_%2020%20Years%20Of%20Rock/16%20The%20Last%20Song.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>356</key>
+		<dict>
+			<key>Track ID</key><integer>356</integer>
+			<key>Name</key><string>Shooting Star</string>
+			<key>Artist</key><string>Poison</string>
+			<key>Composer</key><string>Poison</string>
+			<key>Album</key><string>The Best Of Poison: 20 Years Of Rock</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4397025</integer>
+			<key>Total Time</key><integer>277333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2008-08-07T15:22:19Z</date>
+			<key>Date Added</key><date>2008-08-07T15:22:23Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3357378980</integer>
+			<key>Play Date UTC</key><date>2010-05-22T20:16:20Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Best Of Poison: 20 Years Of Rock</string>
+			<key>Persistent ID</key><string>29E12A03204E08C3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Best%20Of%20Poison_%2020%20Years%20Of%20Rock/17%20Shooting%20Star.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>358</key>
+		<dict>
+			<key>Track ID</key><integer>358</integer>
+			<key>Name</key><string>We're An American Band</string>
+			<key>Artist</key><string>Poison</string>
+			<key>Composer</key><string>Poison</string>
+			<key>Album</key><string>The Best Of Poison: 20 Years Of Rock</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3008418</integer>
+			<key>Total Time</key><integer>190173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-08-07T15:22:32Z</date>
+			<key>Date Added</key><date>2008-08-07T15:22:41Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3300946100</integer>
+			<key>Play Date UTC</key><date>2008-08-07T16:28:20Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Best Of Poison: 20 Years Of Rock</string>
+			<key>Persistent ID</key><string>29E12A03204E08C8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Best%20Of%20Poison_%2020%20Years%20Of%20Rock/18%20We're%20An%20American%20Band.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>360</key>
+		<dict>
+			<key>Track ID</key><integer>360</integer>
+			<key>Name</key><string>Callin' Baton Rouge</string>
+			<key>Artist</key><string>Garth Brooks</string>
+			<key>Composer</key><string>Various</string>
+			<key>Album</key><string>The Ultimate Hits [Disc 2]</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2567012</integer>
+			<key>Total Time</key><integer>158733</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2008-08-07T15:24:16Z</date>
+			<key>Date Added</key><date>2008-08-07T15:24:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3379925095</integer>
+			<key>Play Date UTC</key><date>2011-02-07T19:04:55Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2010-05-21T14:31:38Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Ultimate Hits [Disc 2]</string>
+			<key>Persistent ID</key><string>29E12A03204E0943</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Ultimate%20Hits%20%5BDisc%202%5D/2-01%20Callin'%20Baton%20Rouge.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>362</key>
+		<dict>
+			<key>Track ID</key><integer>362</integer>
+			<key>Name</key><string>Two Piña Coladas</string>
+			<key>Artist</key><string>Garth Brooks</string>
+			<key>Composer</key><string>Various</string>
+			<key>Album</key><string>The Ultimate Hits [Disc 2]</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3451436</integer>
+			<key>Total Time</key><integer>214800</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2008-08-07T15:24:28Z</date>
+			<key>Date Added</key><date>2008-08-07T15:24:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>69</integer>
+			<key>Play Date</key><integer>3379925309</integer>
+			<key>Play Date UTC</key><date>2011-02-07T19:08:29Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2010-05-12T18:28:48Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Ultimate Hits [Disc 2]</string>
+			<key>Persistent ID</key><string>29E12A03204E094B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Ultimate%20Hits%20%5BDisc%202%5D/2-02%20Two%20Pi%C3%B1a%20Coladas.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>364</key>
+		<dict>
+			<key>Track ID</key><integer>364</integer>
+			<key>Name</key><string>The Thunder Rolls</string>
+			<key>Artist</key><string>Garth Brooks</string>
+			<key>Composer</key><string>Various</string>
+			<key>Album</key><string>The Ultimate Hits [Disc 2]</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3649961</integer>
+			<key>Total Time</key><integer>223946</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2008-08-07T15:24:41Z</date>
+			<key>Date Added</key><date>2008-08-07T15:24:50Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3379925533</integer>
+			<key>Play Date UTC</key><date>2011-02-07T19:12:13Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Ultimate Hits [Disc 2]</string>
+			<key>Sort Name</key><string>Thunder Rolls</string>
+			<key>Persistent ID</key><string>29E12A03204E0950</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Ultimate%20Hits%20%5BDisc%202%5D/2-03%20The%20Thunder%20Rolls.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>366</key>
+		<dict>
+			<key>Track ID</key><integer>366</integer>
+			<key>Name</key><string>That Summer</string>
+			<key>Artist</key><string>Garth Brooks</string>
+			<key>Composer</key><string>Various</string>
+			<key>Album</key><string>The Ultimate Hits [Disc 2]</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4580635</integer>
+			<key>Total Time</key><integer>286613</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2008-08-07T15:24:56Z</date>
+			<key>Date Added</key><date>2008-08-07T15:25:02Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3379925820</integer>
+			<key>Play Date UTC</key><date>2011-02-07T19:17:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Ultimate Hits [Disc 2]</string>
+			<key>Persistent ID</key><string>29E12A03204E0955</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Ultimate%20Hits%20%5BDisc%202%5D/2-04%20That%20Summer.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>368</key>
+		<dict>
+			<key>Track ID</key><integer>368</integer>
+			<key>Name</key><string>The River</string>
+			<key>Artist</key><string>Garth Brooks</string>
+			<key>Composer</key><string>Various</string>
+			<key>Album</key><string>The Ultimate Hits [Disc 2]</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4285884</integer>
+			<key>Total Time</key><integer>267026</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2008-08-07T15:25:11Z</date>
+			<key>Date Added</key><date>2008-08-07T15:25:18Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3379926087</integer>
+			<key>Play Date UTC</key><date>2011-02-07T19:21:27Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2010-05-27T04:47:43Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Ultimate Hits [Disc 2]</string>
+			<key>Sort Name</key><string>River</string>
+			<key>Persistent ID</key><string>29E12A03204E095A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Ultimate%20Hits%20%5BDisc%202%5D/2-05%20The%20River.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>370</key>
+		<dict>
+			<key>Track ID</key><integer>370</integer>
+			<key>Name</key><string>Beer Run</string>
+			<key>Artist</key><string>Garth Brooks</string>
+			<key>Composer</key><string>Various</string>
+			<key>Album</key><string>The Ultimate Hits [Disc 2]</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2957120</integer>
+			<key>Total Time</key><integer>184840</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-08-07T15:25:22Z</date>
+			<key>Date Added</key><date>2008-08-07T15:25:33Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3379926272</integer>
+			<key>Play Date UTC</key><date>2011-02-07T19:24:32Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Ultimate Hits [Disc 2]</string>
+			<key>Persistent ID</key><string>29E12A03204E095F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Ultimate%20Hits%20%5BDisc%202%5D/2-06%20Beer%20Run.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>372</key>
+		<dict>
+			<key>Track ID</key><integer>372</integer>
+			<key>Name</key><string>Unanswered Prayers</string>
+			<key>Artist</key><string>Garth Brooks</string>
+			<key>Composer</key><string>Various</string>
+			<key>Album</key><string>The Ultimate Hits [Disc 2]</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3326652</integer>
+			<key>Total Time</key><integer>206280</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2008-08-07T15:25:34Z</date>
+			<key>Date Added</key><date>2008-08-07T15:25:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3379926479</integer>
+			<key>Play Date UTC</key><date>2011-02-07T19:27:59Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Ultimate Hits [Disc 2]</string>
+			<key>Persistent ID</key><string>29E12A03204E0964</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Ultimate%20Hits%20%5BDisc%202%5D/2-07%20Unanswered%20Prayers.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>374</key>
+		<dict>
+			<key>Track ID</key><integer>374</integer>
+			<key>Name</key><string>Much Too Young (To Feel This Damn Old)</string>
+			<key>Artist</key><string>Garth Brooks</string>
+			<key>Composer</key><string>Various</string>
+			<key>Album</key><string>The Ultimate Hits [Disc 2]</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2848929</integer>
+			<key>Total Time</key><integer>179386</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2008-08-07T15:25:44Z</date>
+			<key>Date Added</key><date>2008-08-07T15:25:56Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3379926659</integer>
+			<key>Play Date UTC</key><date>2011-02-07T19:30:59Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Ultimate Hits [Disc 2]</string>
+			<key>Persistent ID</key><string>29E12A03204E0969</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Ultimate%20Hits%20%5BDisc%202%5D/2-08%20Much%20Too%20Young%20(To%20Feel%20This%20Da.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>376</key>
+		<dict>
+			<key>Track ID</key><integer>376</integer>
+			<key>Name</key><string>Workin' For A Livin'</string>
+			<key>Artist</key><string>Garth Brooks</string>
+			<key>Composer</key><string>Various</string>
+			<key>Album</key><string>The Ultimate Hits [Disc 2]</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2646323</integer>
+			<key>Total Time</key><integer>164053</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-08-07T15:25:54Z</date>
+			<key>Date Added</key><date>2008-08-07T15:26:06Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3379926823</integer>
+			<key>Play Date UTC</key><date>2011-02-07T19:33:43Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2010-05-12T18:45:24Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Ultimate Hits [Disc 2]</string>
+			<key>Persistent ID</key><string>29E12A03204E096E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Ultimate%20Hits%20%5BDisc%202%5D/2-09%20Workin'%20For%20A%20Livin'.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>378</key>
+		<dict>
+			<key>Track ID</key><integer>378</integer>
+			<key>Name</key><string>What She's Doing Now</string>
+			<key>Artist</key><string>Garth Brooks</string>
+			<key>Composer</key><string>Various</string>
+			<key>Album</key><string>The Ultimate Hits [Disc 2]</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3296047</integer>
+			<key>Total Time</key><integer>205853</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2008-08-07T15:26:05Z</date>
+			<key>Date Added</key><date>2008-08-07T15:26:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3379927029</integer>
+			<key>Play Date UTC</key><date>2011-02-07T19:37:09Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2010-05-12T18:45:27Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Ultimate Hits [Disc 2]</string>
+			<key>Persistent ID</key><string>29E12A03204E0973</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Ultimate%20Hits%20%5BDisc%202%5D/2-10%20What%20She's%20Doing%20Now.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>380</key>
+		<dict>
+			<key>Track ID</key><integer>380</integer>
+			<key>Name</key><string>When You Come Back To Me Again [From Frequency]</string>
+			<key>Artist</key><string>Garth Brooks</string>
+			<key>Composer</key><string>Various</string>
+			<key>Album</key><string>The Ultimate Hits [Disc 2]</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4601036</integer>
+			<key>Total Time</key><integer>285266</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-08-07T15:26:21Z</date>
+			<key>Date Added</key><date>2008-08-07T15:26:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3379927314</integer>
+			<key>Play Date UTC</key><date>2011-02-07T19:41:54Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2010-05-21T14:31:41Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Ultimate Hits [Disc 2]</string>
+			<key>Persistent ID</key><string>29E12A03204E0978</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Ultimate%20Hits%20%5BDisc%202%5D/2-11%20When%20You%20Come%20Back%20To%20Me%20Again.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>382</key>
+		<dict>
+			<key>Track ID</key><integer>382</integer>
+			<key>Name</key><string>Standing Outside The Fire</string>
+			<key>Artist</key><string>Garth Brooks</string>
+			<key>Composer</key><string>Various</string>
+			<key>Album</key><string>The Ultimate Hits [Disc 2]</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3709703</integer>
+			<key>Total Time</key><integer>232600</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2008-08-07T15:26:39Z</date>
+			<key>Date Added</key><date>2008-08-07T15:26:43Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3379927547</integer>
+			<key>Play Date UTC</key><date>2011-02-07T19:45:47Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Ultimate Hits [Disc 2]</string>
+			<key>Persistent ID</key><string>29E12A03204E097D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Ultimate%20Hits%20%5BDisc%202%5D/2-12%20Standing%20Outside%20The%20Fire.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>384</key>
+		<dict>
+			<key>Track ID</key><integer>384</integer>
+			<key>Name</key><string>American Honky-Tonk Bar Association</string>
+			<key>Artist</key><string>Garth Brooks</string>
+			<key>Composer</key><string>Various</string>
+			<key>Album</key><string>The Ultimate Hits [Disc 2]</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3441674</integer>
+			<key>Total Time</key><integer>213853</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2008-08-07T15:26:55Z</date>
+			<key>Date Added</key><date>2008-08-07T15:27:01Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3379927761</integer>
+			<key>Play Date UTC</key><date>2011-02-07T19:49:21Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2010-05-12T18:45:36Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Ultimate Hits [Disc 2]</string>
+			<key>Persistent ID</key><string>29E12A03204E0982</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Ultimate%20Hits%20%5BDisc%202%5D/2-13%20American%20Honky-Tonk%20Bar%20Associa.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>386</key>
+		<dict>
+			<key>Track ID</key><integer>386</integer>
+			<key>Name</key><string>The Change</string>
+			<key>Artist</key><string>Garth Brooks</string>
+			<key>Composer</key><string>Various</string>
+			<key>Album</key><string>The Ultimate Hits [Disc 2]</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3920463</integer>
+			<key>Total Time</key><integer>246973</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2008-08-07T15:27:14Z</date>
+			<key>Date Added</key><date>2008-08-07T15:27:17Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3373014025</integer>
+			<key>Play Date UTC</key><date>2010-11-19T19:20:25Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Ultimate Hits [Disc 2]</string>
+			<key>Sort Name</key><string>Change</string>
+			<key>Persistent ID</key><string>29E12A03204E0987</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Ultimate%20Hits%20%5BDisc%202%5D/2-14%20The%20Change.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>388</key>
+		<dict>
+			<key>Track ID</key><integer>388</integer>
+			<key>Name</key><string>Rodeo</string>
+			<key>Artist</key><string>Garth Brooks</string>
+			<key>Composer</key><string>Various</string>
+			<key>Album</key><string>The Ultimate Hits [Disc 2]</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3782446</integer>
+			<key>Total Time</key><integer>235226</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2008-08-07T15:27:31Z</date>
+			<key>Date Added</key><date>2008-08-07T15:27:36Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3373014260</integer>
+			<key>Play Date UTC</key><date>2010-11-19T19:24:20Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2010-05-12T18:45:40Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Ultimate Hits [Disc 2]</string>
+			<key>Persistent ID</key><string>29E12A03204E098C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Ultimate%20Hits%20%5BDisc%202%5D/2-15%20Rodeo.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>390</key>
+		<dict>
+			<key>Track ID</key><integer>390</integer>
+			<key>Name</key><string>Wrapped Up In You</string>
+			<key>Artist</key><string>Garth Brooks</string>
+			<key>Composer</key><string>Various</string>
+			<key>Album</key><string>The Ultimate Hits [Disc 2]</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4442919</integer>
+			<key>Total Time</key><integer>272226</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2008-08-07T15:27:50Z</date>
+			<key>Date Added</key><date>2008-08-07T15:27:53Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3373014533</integer>
+			<key>Play Date UTC</key><date>2010-11-19T19:28:53Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Ultimate Hits [Disc 2]</string>
+			<key>Persistent ID</key><string>29E12A03204E0991</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Ultimate%20Hits%20%5BDisc%202%5D/2-16%20Wrapped%20Up%20In%20You.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>392</key>
+		<dict>
+			<key>Track ID</key><integer>392</integer>
+			<key>Name</key><string>Secret Track</string>
+			<key>Artist</key><string>Garth Brooks</string>
+			<key>Composer</key><string>Various</string>
+			<key>Album</key><string>The Ultimate Hits [Disc 2]</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8935</integer>
+			<key>Total Time</key><integer>10506</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-08-07T15:27:51Z</date>
+			<key>Date Added</key><date>2008-08-07T15:28:11Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3377292514</integer>
+			<key>Play Date UTC</key><date>2011-01-08T07:48:34Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Ultimate Hits [Disc 2]</string>
+			<key>Persistent ID</key><string>29E12A03204E0996</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Ultimate%20Hits%20%5BDisc%202%5D/2-17%20Secret%20Track.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>394</key>
+		<dict>
+			<key>Track ID</key><integer>394</integer>
+			<key>Name</key><string>Secret Track</string>
+			<key>Artist</key><string>Garth Brooks</string>
+			<key>Composer</key><string>Various</string>
+			<key>Album</key><string>The Ultimate Hits [Disc 2]</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8520</integer>
+			<key>Total Time</key><integer>9640</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-08-07T15:27:52Z</date>
+			<key>Date Added</key><date>2008-08-07T15:28:12Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3373014553</integer>
+			<key>Play Date UTC</key><date>2010-11-19T19:29:13Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Ultimate Hits [Disc 2]</string>
+			<key>Persistent ID</key><string>29E12A03204E099B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Ultimate%20Hits%20%5BDisc%202%5D/2-18%20Secret%20Track.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>396</key>
+		<dict>
+			<key>Track ID</key><integer>396</integer>
+			<key>Name</key><string>Leave A Light On</string>
+			<key>Artist</key><string>Garth Brooks</string>
+			<key>Composer</key><string>Various</string>
+			<key>Album</key><string>The Ultimate Hits [Disc 2]</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3562829</integer>
+			<key>Total Time</key><integer>221826</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-08-07T15:28:07Z</date>
+			<key>Date Added</key><date>2008-08-07T15:28:13Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3373014776</integer>
+			<key>Play Date UTC</key><date>2010-11-19T19:32:56Z</date>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Ultimate Hits [Disc 2]</string>
+			<key>Persistent ID</key><string>29E12A03204E099F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Compilations/The%20Ultimate%20Hits%20%5BDisc%202%5D/2-19%20Leave%20A%20Light%20On.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>398</key>
+		<dict>
+			<key>Track ID</key><integer>398</integer>
+			<key>Name</key><string>The World</string>
+			<key>Artist</key><string>Brad Paisley</string>
+			<key>Composer</key><string>Ashley Gorley/Lee Thomas Miller/Brad Paisley/Kelley Lovelace</string>
+			<key>Album</key><string>Time Well Wasted</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3997025</integer>
+			<key>Total Time</key><integer>241653</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-08-07T15:35:21Z</date>
+			<key>Date Added</key><date>2008-08-07T15:35:26Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3375025981</integer>
+			<key>Play Date UTC</key><date>2010-12-13T02:13:01Z</date>
+			<key>Sort Name</key><string>World</string>
+			<key>Persistent ID</key><string>29E12A03204E09FF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Brad%20Paisley/Time%20Well%20Wasted/01%20The%20World.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>400</key>
+		<dict>
+			<key>Track ID</key><integer>400</integer>
+			<key>Name</key><string>Alcohol</string>
+			<key>Artist</key><string>Brad Paisley</string>
+			<key>Composer</key><string>Ashley Gorley/Brad Paisley</string>
+			<key>Album</key><string>Time Well Wasted</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4625483</integer>
+			<key>Total Time</key><integer>292466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-08-07T15:35:39Z</date>
+			<key>Date Added</key><date>2008-08-07T15:35:43Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>25</integer>
+			<key>Play Date</key><integer>3375026274</integer>
+			<key>Play Date UTC</key><date>2010-12-13T02:17:54Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2010-08-17T23:35:28Z</date>
+			<key>Persistent ID</key><string>29E12A03204E0A03</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Brad%20Paisley/Time%20Well%20Wasted/02%20Alcohol.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>402</key>
+		<dict>
+			<key>Track ID</key><integer>402</integer>
+			<key>Name</key><string>Waitin' On A Woman</string>
+			<key>Artist</key><string>Brad Paisley</string>
+			<key>Composer</key><string>Ashley Gorley/Don Samppson/Wynn Varble</string>
+			<key>Album</key><string>Time Well Wasted</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4372805</integer>
+			<key>Total Time</key><integer>272666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-08-07T15:35:55Z</date>
+			<key>Date Added</key><date>2008-08-07T15:36:01Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3369571858</integer>
+			<key>Play Date UTC</key><date>2010-10-10T23:10:58Z</date>
+			<key>Persistent ID</key><string>29E12A03204E0A06</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Brad%20Paisley/Time%20Well%20Wasted/03%20Waitin'%20On%20A%20Woman.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>404</key>
+		<dict>
+			<key>Track ID</key><integer>404</integer>
+			<key>Name</key><string>I'll Take You Back</string>
+			<key>Artist</key><string>Brad Paisley</string>
+			<key>Composer</key><string>Ashley Gorley/Brad Paisley/Tim Owens/Robert Arthur</string>
+			<key>Album</key><string>Time Well Wasted</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4169534</integer>
+			<key>Total Time</key><integer>263693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-08-07T15:36:09Z</date>
+			<key>Date Added</key><date>2008-08-07T15:36:16Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3369572122</integer>
+			<key>Play Date UTC</key><date>2010-10-10T23:15:22Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2010-05-12T15:03:55Z</date>
+			<key>Persistent ID</key><string>29E12A03204E0A09</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Brad%20Paisley/Time%20Well%20Wasted/04%20I'll%20Take%20You%20Back.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>406</key>
+		<dict>
+			<key>Track ID</key><integer>406</integer>
+			<key>Name</key><string>She's Everything</string>
+			<key>Artist</key><string>Brad Paisley</string>
+			<key>Composer</key><string>Brad Paisley/Will Nance/Ashley Gorley</string>
+			<key>Album</key><string>Time Well Wasted</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4264013</integer>
+			<key>Total Time</key><integer>266920</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-08-07T15:36:26Z</date>
+			<key>Date Added</key><date>2008-08-07T15:36:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3369572388</integer>
+			<key>Play Date UTC</key><date>2010-10-10T23:19:48Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2010-08-06T00:45:47Z</date>
+			<key>Persistent ID</key><string>29E12A03204E0A0C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Brad%20Paisley/Time%20Well%20Wasted/05%20She's%20Everything.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>408</key>
+		<dict>
+			<key>Track ID</key><integer>408</integer>
+			<key>Name</key><string>You Need A Man Around Here</string>
+			<key>Artist</key><string>Brad Paisley</string>
+			<key>Composer</key><string>Brad Paisley/Ashley Gorley/Kelley Lovelace</string>
+			<key>Album</key><string>Time Well Wasted</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3377228</integer>
+			<key>Total Time</key><integer>213280</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-08-07T15:36:40Z</date>
+			<key>Date Added</key><date>2008-08-07T15:36:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3367592010</integer>
+			<key>Play Date UTC</key><date>2010-09-18T01:13:30Z</date>
+			<key>Persistent ID</key><string>29E12A03204E0A0F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost//Thomts/Holly/data/My%20Music/iTunes/iTunes%20Music/Brad%20Paisley/Time%20Well%20Wasted/06%20You%20Need%20A%20Man%20Around%20Here.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+</dict>
+<key>Playlists</key>
+<array>
+  <dict>
+      <key>Name</key><string>Library</string>
+      <key>Master</key><true/>
+    <key>Playlist ID</key><integer>1806</integer>
+    <key>Playlist Persistent ID</key><string>29E12A03204E0722</string>
+    <key>Visible</key><false/>
+    <key>All Items</key><true/>
+    <key>Playlist Items</key>
+    <array>
+	  <dict>
+		  <key>Track ID</key><integer>386</integer>
+	  </dict>
+	  <dict>
+		  <key>Track ID</key><integer>388</integer>
+	  </dict>
+    </array>
+  </dict>
+    <dict>
+      <key>Name</key><string>Bemi</string>
+      <key>Master</key><true/>
+    <key>Playlist ID</key><integer>1234</integer>
+    <key>Playlist Persistent ID</key><string>29E12A03204THE0722</string>
+    <key>Visible</key><false/>
+    <key>All Items</key><true/>
+    <key>Playlist Items</key>
+    <array>
+	  <dict>
+		  <key>Track ID</key><integer>388</integer>
+	  </dict>
+	  <dict>
+		  <key>Track ID</key><integer>406</integer>
+	  </dict>
+    </array>
+  </dict>
+</array>
+</dict>
+</plist>

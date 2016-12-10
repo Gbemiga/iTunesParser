@@ -1,0 +1,26 @@
+<!--{{mainUser}}-->
+<navbar logged-in="true"
+        library-mode="false"
+        libraries="userLibraries">
+
+</navbar>
+<div class="container dashboard-container">
+    <div class="row">
+        <p>Recent Activity</p>
+        <div class="col-xs-12">
+            <div class="row">
+                <div class="col-xs-3" ng-repeat="track in recentActivity">
+                    <div class="thumbnail">
+                        <a href="detail.html"><img class="default-album" src="../../resources/img/default_album.svg" alt="thumbnail">
+                        </a>
+                            <hr></hr>
+                        <div class="track-info">
+                            <p class="track-info">{{track.track.name}}</p>
+                            <p class="track-info">{{track.track.artist}}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

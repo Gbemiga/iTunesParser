@@ -1,0 +1,42 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "FYP Package.json",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bemi",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "^1.5.8",
+    "angular-chart.js": "^1.0.3",
+    "angular-cookies": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "angular-sanitize": "^1.5.8",
+    "angular-ui-router": "^0.3.1",
+    "bootstrap": "^3.3.7",
+    "chart": "^0.1.2",
+    "chart.js": "^2.3.0",
+    "eslint": "^3.8.1",
+    "font-awesome": "^4.7.0",
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-eslint": "^19.0.0",
+    "grunt-sass-lint": "^0.2.0",
+    "jquery": "^3.1.1",
+    "load-grunt-tasks": "^3.5.2",
+    "lodash": "^4.16.4",
+    "simple-line-icons": "^2.4.1"
+  },
+  "eslintConfig": {
+    "env": {
+      "browser": true,
+      "node": true
+    }
+  },
+  "dependencies": {
+    "ng-file-upload": "^12.2.13"
+  }
+}
